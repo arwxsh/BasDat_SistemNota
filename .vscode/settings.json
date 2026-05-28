@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Arika Sanjaya\\OneDrive\\Dokumen\\tugas\\sem 2\\Praktikum BASDAT\\sqljdbc_13.4.0.0_enu\\sqljdbc_13.4\\enu\\jars\\mssql-jdbc-13.4.0.jre11.jar"
+    ]
+}
